@@ -8,5 +8,6 @@ namespace QuanLyVienKhoaHoc.Enties
 {
     class NhanVien
     {
+        //vvvvvvv
     }
 }
