@@ -8,7 +8,8 @@ namespace QuanLyVienKhoaHoc.Enties
 {
     class NhanVien
     {
-        //vvvvvvv
-        //code
+       public string HoTen { get; set; }
+       public DateTime NamSinh { get; set; }
+       public BangCap BangCap { get; set; }
     }
 }
